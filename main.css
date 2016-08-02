@@ -1,0 +1,61 @@
+.-intro {
+    background-image: linear-gradient(to bottom, #a1b9d9 0, #2fb291 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF71BA51', endColorstr='#FF00B16A', GradientType=0);
+    color: #fff;
+    box-sizing: border-box;
+    min-height: 100%;
+
+}
+.nav-bg{
+    background-color:#202020;
+    border-bottom: none;
+}
+.-page-intro{
+    padding-top:50px;
+    padding-bottom: 4.2358rem;
+}
+.title{
+    font-size: 6.85353rem;
+    font-family: Comfortaa;
+    font-weight: 700;
+}
+.description{
+    height: 660px;
+    padding-top: 50px;
+}
+.summary{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.browser-item{
+    height: 400px;
+}
+.main-footer {
+    background: #202020;
+    padding: 35px 0 0;
+    color: #959595;
+}
+
+.fp-nav {
+    right: 17px;
+    position: fixed;
+    z-index: 100;
+    margin-top: -32px;
+    top: 50%;
+    opacity: 1;
+    -webkit-transform: translate3d(0,0,0);
+}
+.widget {
+    padding: 0px 30px;
+    margin-bottom: 35px;
+}
+.copyright {
+    background: #111;
+    font-size: 13px;
+    text-align: center;
+    color: #555555;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    border-top: 1px solid #303030;
+}
